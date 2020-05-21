@@ -1,0 +1,11 @@
+Type 1:
+Train-top-layer
+(Freezing pretrained model VGG16)
+
+
+Type 2:
+Fully-training model
+
+Type 3:
+Freezing Top
+Training Base model
